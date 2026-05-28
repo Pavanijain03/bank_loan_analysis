@@ -137,6 +137,8 @@ A few things this dashboard makes obvious at a glance:
 ---
 
 ## 📁 Repository Structure
+
+```
 bank_loan_analysis/
 ├── Finance domain.twb       # Tableau workbook (3-view dashboard)
 ├── financial_loan.csv       # Source dataset (38,574 loans)
@@ -145,7 +147,7 @@ bank_loan_analysis/
 │   ├── Dashboard 2.png      # Overview view
 │   └── Dashboard 3.png      # Details view
 └── README.md
-
+```
 ---
 
 ## 💡 What I Learned
